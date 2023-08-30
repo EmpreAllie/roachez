@@ -1,0 +1,6 @@
+02:07:25  INFO    :  Display resolution: 1366 x 768 (1.78), refresh rate: 60
+02:07:25  INFO    :  Display usable bounds:   X: 0, Y: 0 - 1366 x 728 (1.88)
+02:07:25  INFO    :  Game resolution 800 x 600 (1.33)
+02:07:25  INFO    :  Window borders - top: 26 left: 3, bottom: 3, right: 3
+02:07:26  INFO    :  Opened audio at 44100 Hz 16 bit stereo 4096 bytes audio buffer
+
