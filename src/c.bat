@@ -1,0 +1,15 @@
+c++ -c C:\Projects\roachez\src\Debug.cpp
+c++ -c C:\Projects\roachez\src\Engine.cpp
+c++ -c C:\Projects\roachez\src\Game.cpp
+c++ -c C:\Projects\roachez\src\main.cpp
+c++ -c C:\Projects\roachez\src\Roach.cpp
+c++ -c C:\Projects\roachez\src\Sound.cpp
+c++ -c C:\Projects\roachez\src\UIButton.cpp
+c++ -c C:\Projects\roachez\src\UIEditText.cpp
+c++ -c C:\Projects\roachez\src\UIObject.cpp
+c++ -c C:\Projects\roachez\src\UIStaticBitmap.cpp
+c++ -c C:\Projects\roachez\src\UIStaticText.cpp
+c++ -c C:\Projects\roachez\src\UIWindow.cpp
+c++ -c C:\Projects\roachez\src\Utils.cpp
+c++ -c C:\Projects\roachez\src\Video.cpp
+del /q *.o
