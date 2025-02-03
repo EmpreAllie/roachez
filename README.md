@@ -1,7 +1,5 @@
 # roachez
-my 1st game don't judge too strict
-useful information, idk, will add smth here someday
-or not   
+my 1st game don't judge too strict     
    Pictures:   
 ![image](https://github.com/user-attachments/assets/a3dc6095-6eac-46ae-9664-0dcad1b169ef)
    ![image](https://github.com/user-attachments/assets/43dfa390-2216-467f-901c-545801ca7e92)
